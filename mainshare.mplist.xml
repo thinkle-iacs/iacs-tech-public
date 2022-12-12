@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<AddrBookInfo>
+		<APPName>EasyMP Multi PC Projection</APPName>
+		<FileType>AddrBook</FileType>
+		<Version>1.00</Version>
+		<OS>Mac</OS>
+		<Date>2022-11-17T17:29:34Z</Date>
+	</AddrBookInfo>
+	
+	<Folder>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM101</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM101</ProjName>
+			<IPAddr>192.168.69.219</IPAddr>
+			<UniqInfo>F8:25:51:69:11:26</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM102</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM102</ProjName>
+			<IPAddr>192.168.69.213</IPAddr>
+			<UniqInfo>F8:25:51:69:E0:F2</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM206</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM206</ProjName>
+			<IPAddr>192.168.69.193</IPAddr>
+			<UniqInfo>f8:25:51:6a:10:ae</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM207</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM207</ProjName>
+			<IPAddr>192.168.69.187</IPAddr>
+			<UniqInfo>F8:25:51:67:B7:62</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM208</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM208</ProjName>
+			<IPAddr>192.168.69.107</IPAddr>
+			<UniqInfo>F8:25:51:67:C6:7E</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM237</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM237</ProjName>
+			<IPAddr>192.168.69.69</IPAddr>
+			<UniqInfo>F8:25:51:69:E1:0A</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM245</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM245</ProjName>
+			<IPAddr>192.168.69.160</IPAddr>
+			<UniqInfo>f8:25:51:69:f1:8a</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM302</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM302</ProjName>
+			<IPAddr>192.168.69.192</IPAddr>
+			<UniqInfo>F8:25:51:69:0A:E6</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM304</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM304</ProjName>
+			<IPAddr>192.168.69.204</IPAddr>
+			<UniqInfo>F8:25:51:6A:15:F0</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM401</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM401</ProjName>
+			<IPAddr>192.168.69.183</IPAddr>
+			<UniqInfo>F8:25:51:69:FC:3A</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM402</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM402</ProjName>
+			<IPAddr>192.168.69.176</IPAddr>
+			<UniqInfo>f8:25:51:69:e1:64</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM403</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM403</ProjName>
+			<IPAddr>192.168.69.174</IPAddr>
+			<UniqInfo>F8:25:51:6A:15:FC</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM404</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM404</ProjName>
+			<IPAddr>192.168.69.164</IPAddr>
+			<UniqInfo>F8:25:51:69:6D:54</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM405</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM405</ProjName>
+			<IPAddr>192.168.69.122</IPAddr>
+			<UniqInfo>F8:25:51:69:EB:A8</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM408</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM408</ProjName>
+			<IPAddr>192.168.69.168</IPAddr>
+			<UniqInfo>F8.25.51.69.EC.9E</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM409</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM409</ProjName>
+			<IPAddr>192.168.69.170</IPAddr>
+			<UniqInfo>F8.25.51.67.C6.B4</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM410</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM410</ProjName>
+			<IPAddr>192.168.69.157</IPAddr>
+			<UniqInfo>192.168.69.157</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+	</Folder>
+	
+</Root>
