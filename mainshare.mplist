@@ -49,12 +49,28 @@
 			<UniqInfo>F8:25:51:67:C6:7E</UniqInfo>
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
+				<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM235</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM235</ProjName>
+			<IPAddr>192.168.69.145</IPAddr>
+			<UniqInfo>F8:25:51:69:E1:1A</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
 		<ProjFile>
 			<NodeName xml:space="preserve">EPSON-RM237</NodeName>
 			<SSID></SSID>
 			<ProjName xml:space="preserve">EPSON-RM237</ProjName>
 			<IPAddr>192.168.69.69</IPAddr>
 			<UniqInfo>F8:25:51:69:E1:0A</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM241</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM241</ProjName>
+			<IPAddr>192.168.69.72</IPAddr>
+			<UniqInfo>F8:25:51:69:05:86</UniqInfo>
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
 		<ProjFile>
