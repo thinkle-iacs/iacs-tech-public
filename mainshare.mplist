@@ -97,6 +97,14 @@
 			<UniqInfo>F8:25:51:6A:15:F0</UniqInfo>
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
+                <ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM305</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM305</ProjName>
+			<IPAddr>192.168.78.82</IPAddr>
+			<UniqInfo>DC:CD:2F:15:9D:28</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
 		<ProjFile>
 			<NodeName xml:space="preserve">EPSON-RM401</NodeName>
 			<SSID></SSID>
