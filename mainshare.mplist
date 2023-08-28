@@ -5,7 +5,7 @@
 		<FileType>AddrBook</FileType>
 		<Version>1.00</Version>
 		<OS>Mac</OS>
-		<Date>2022-11-17T17:29:34Z</Date>
+		<Date>2023-08-28T08:29:34Z</Date>
 	</AddrBookInfo>
 	
 	<Folder>
@@ -253,6 +253,31 @@
 			<ProjName xml:space="preserve">EPSON-RM518</ProjName>
 			<IPAddr>192.168.69.85</IPAddr>
 			<UniqInfo>f8:25:51:73:f0:f0</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM519</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM519</ProjName>
+			<IPAddr>192.168.69.86</IPAddr>
+			<UniqInfo>f8:25:51:74:50:62</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+	
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM520</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM520</ProjName>
+			<IPAddr>192.168.69.87</IPAddr>
+			<UniqInfo>f8:25:51:74:3a:20</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM521</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM521</ProjName>
+			<IPAddr>192.168.69.88</IPAddr>
+			<UniqInfo>F8.25.51.74.04.28</UniqInfo>
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
 		<ProjFile>
