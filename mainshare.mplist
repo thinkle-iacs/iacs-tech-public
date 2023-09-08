@@ -4,8 +4,8 @@
 		<APPName>EasyMP Multi PC Projection</APPName>
 		<FileType>AddrBook</FileType>
 		<Version>1.00</Version>
-		<OS>Mac</OS>
-		<Date>2023-08-28T08:29:34Z</Date>
+		<OS>Win</OS>
+		<Date>2022-11-17T17:29:34Z</Date>
 	</AddrBookInfo>
 	
 	<Folder>
@@ -23,6 +23,14 @@
 			<ProjName xml:space="preserve">EPSON-RM102</ProjName>
 			<IPAddr>192.168.69.213</IPAddr>
 			<UniqInfo>F8:25:51:69:E0:F2</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM153</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM153</ProjName>
+			<IPAddr>192.168.0.106</IPAddr>
+			<UniqInfo>50:57:9c:17:d2:21</UniqInfo>
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
 		<ProjFile>
@@ -74,6 +82,14 @@
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
 		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM242</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM242</ProjName>
+			<IPAddr>192.168.0.109</IPAddr>
+			<UniqInfo>F8:D0:27:BE:E2:C7</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
 			<NodeName xml:space="preserve">EPSON-RM245</NodeName>
 			<SSID></SSID>
 			<ProjName xml:space="preserve">EPSON-RM245</ProjName>
@@ -95,14 +111,6 @@
 			<ProjName xml:space="preserve">EPSON-RM304</ProjName>
 			<IPAddr>192.168.69.204</IPAddr>
 			<UniqInfo>F8:25:51:6A:15:F0</UniqInfo>
-			<Comment xml:space="preserve"></Comment>
-		</ProjFile>
-                <ProjFile>
-			<NodeName xml:space="preserve">EPSON-RM305</NodeName>
-			<SSID></SSID>
-			<ProjName xml:space="preserve">EPSON-RM305</ProjName>
-			<IPAddr>192.168.78.82</IPAddr>
-			<UniqInfo>DC:CD:2F:15:9D:28</UniqInfo>
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
 		<ProjFile>
