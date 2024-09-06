@@ -106,6 +106,14 @@
 			<Comment xml:space="preserve"></Comment>
 		</ProjFile>
 		<ProjFile>
+			<NodeName xml:space="preserve">EPSON-RM238</NodeName>
+			<SSID></SSID>
+			<ProjName xml:space="preserve">EPSON-RM238</ProjName>
+			<IPAddr>192.168.68.241</IPAddr>
+			<UniqInfo>dc:cd:2f:15:9d:5b</UniqInfo>
+			<Comment xml:space="preserve"></Comment>
+		</ProjFile>
+		<ProjFile>
 			<NodeName xml:space="preserve">EPSON-RM241</NodeName>
 			<SSID></SSID>
 			<ProjName xml:space="preserve">EPSON-RM241</ProjName>
